@@ -1,0 +1,10 @@
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average Note.csproj.AssemblyReference.cache
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average_Note.Form1.resources
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average_Note.Properties.Resources.resources
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average Note.csproj.GenerateResource.cache
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average Note.csproj.CoreCompileInputs.cache
+C:\Users\alp55\Desktop\C# Projects\Average Note\bin\Debug\Average Note.exe.config
+C:\Users\alp55\Desktop\C# Projects\Average Note\bin\Debug\Average Note.exe
+C:\Users\alp55\Desktop\C# Projects\Average Note\bin\Debug\Average Note.pdb
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average Note.exe
+C:\Users\alp55\Desktop\C# Projects\Average Note\obj\Debug\Average Note.pdb
